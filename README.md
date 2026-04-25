@@ -1,5 +1,7 @@
 # LAB-1-ATM
 ## ATM and Banking SYSTEM
+## NAME : PRIYA B
+## REG.NO : 212224230208
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
